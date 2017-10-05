@@ -1,5 +1,5 @@
 # NachOS-4.0_MP1
-Instruction
+Instruction \n
 Compile/Rebuild NachOS:
   cd NachOS-4.0_MP1/code/build.linux
   make clean
